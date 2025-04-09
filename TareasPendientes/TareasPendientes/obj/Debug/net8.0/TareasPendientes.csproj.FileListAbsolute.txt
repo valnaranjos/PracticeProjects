@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\bin\Debug\net8.0\TareasPendientes.exe
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\bin\Debug\net8.0\TareasPendientes.deps.json
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\bin\Debug\net8.0\TareasPendientes.runtimeconfig.json
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\bin\Debug\net8.0\TareasPendientes.dll
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\bin\Debug\net8.0\TareasPendientes.pdb
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.dll
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\refint\TareasPendientes.dll
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.pdb
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\TareasPendientes.genruntimeconfig.cache
+C:\Users\DELL\source\repos\TareasPendientes\TareasPendientes\obj\Debug\net8.0\ref\TareasPendientes.dll

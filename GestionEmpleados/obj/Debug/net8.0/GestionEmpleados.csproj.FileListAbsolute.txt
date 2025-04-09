@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.exe
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.deps.json
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.runtimeconfig.json
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.dll
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.pdb
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfo.cs
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.dll
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\refint\GestionEmpleados.dll
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.pdb
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\DELL\source\repos\GestionEmpleados\GestionEmpleados\obj\Debug\net8.0\ref\GestionEmpleados.dll
